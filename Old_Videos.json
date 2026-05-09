@@ -1,0 +1,53 @@
+{
+  "index": [
+    "/",
+    "/video",
+    "/audio",
+  ],
+
+  "": {}
+  "name": "Sample Media",
+  "path": "/",
+  "folders": [
+    
+  ],
+  "files": [
+    "",
+    "",
+    [
+      "name": "Movie 1",
+      "time": "00:01:00",
+      "description": "Sample Movie #1",
+      "type": "video",
+      "file": {
+        "name": "Movie_1",
+        "ext": "mp4",
+        "size": "20MB",
+        "date": "2026-04-20 06:09:00 -0400",
+        "meta": {
+          "copyright": "CoolV1994"
+        }
+      },
+      "url": "https://coolv-test.github.io/Roku-Media/Movie_1/",
+      "thumbnail": "https://coolv-test.github.io/Roku-Media/Movie_1/thumb.png",
+      "preview": "https://coolv-test.github.io/Roku-Media/Movie_1/preview.mp4",
+      "video": {
+        "fhd": "https://coolv-test.github.io/Roku-Media/Movie_1/fhd.mp4"
+      },
+      "subtitles": {
+        "en": "https://coolv-test.github.io/Roku-Media/Movie_1/en.sub"
+      }
+    ],
+    [
+      "": "",
+      "": "",
+      "": "",
+    ],
+    [
+      "": "",
+      "": "",
+      "": "",
+    ],
+  
+  ]
+}
